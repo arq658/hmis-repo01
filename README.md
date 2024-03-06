@@ -11,3 +11,8 @@
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 ### Tercer nivel de git branching
+![alt text](image-8.png)
+![alt text](image-9.png)
+### Cuarto nivel de git branching
+![alt text](image-10.png)
+![alt text](image-11.png)
