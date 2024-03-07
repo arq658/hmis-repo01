@@ -16,3 +16,12 @@
 ### Cuarto nivel de git branching
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+### Quinto nivel de git branching
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+### Nivel remoto de git branching
+![alt text](image-18.png)
